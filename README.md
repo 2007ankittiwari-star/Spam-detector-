@@ -90,9 +90,3 @@ The model gives around **95–98% accuracy** depending on dataset split.
 
 This project shows how machine learning can be used for real-world problems like spam detection.
 It is simple, efficient, and easy to understand.
-
----
-
-## 🙋‍♂️ Author
-
-Student Project for Fundamentals of AI & ML
